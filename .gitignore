@@ -1,0 +1,8 @@
+syntax:glob
+
+target
+.idea
+*.iml
+*__jb_*
+*.log
+testdb
